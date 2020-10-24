@@ -1,0 +1,20 @@
+﻿  Animation.cpp
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(26,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(27,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(27,85): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(28,43): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Entity.cpp
+  Ground.cpp
+  Pipe.cpp
+  Player.cpp
+  Source.cpp
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(26,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(27,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(27,85): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Animation.h(28,43): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Source.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Source.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Source.cpp(55,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\GMC\GAME\Project4\Source.cpp(55,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project4.vcxproj -> C:\Users\Admin\Desktop\GMC\GAME\x64\Debug\Project4.exe
