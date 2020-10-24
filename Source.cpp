@@ -50,7 +50,7 @@ int main() {
 
 	for (int y = 0; y < img.getSize().y; y++) {
 		for (int x = 0; x < img.getSize().x; x++) {
-			if (img.getPixel(x, y).a == 255) { // so sánh màu trên pixel map rồi generate nó ra
+			if (img.getPixel(x, y).a == 255) { // so sánh màu trên pixel map rồi generate nó ra- Đây là a so sánh nhanh, các e có thể so sánh bằng mã hexdecimal của màu đó
 				RectangleShape shape(Vector2f(16, 16));
 				shape.setPosition(16 * x, 16 * y);
 				shape.setFillColor(Color::Red);
